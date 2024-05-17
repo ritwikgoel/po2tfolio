@@ -6,7 +6,7 @@ export const dialogueData = {
   potion: `A bottle of melatonin to help me sleep after long hours of work.`,
   bed: `My bed to rest and recover after a good workout.`,
   resume: `Here you'll find my professional resume showcasing my skills and achievements. <link to resume>`,
-  projects: `Dive into my GitHub repository and explore a world of innovation and creativity. Check it out <a href="https://github.com/ritwikgoel" target="_blank">Here</a>.`,
+  projects: `Dive into my GitHub repository and explore a world of innovation and creativity. Discover projects on data analytics, full stack development, AWS, ML and AI. Check it out <a href="https://github.com/ritwikgoel" target="_blank">here</a>.`,
   chest: `You've found my chest of insights into me. Check out my YouTube channel <a href="https://www.youtube.com/channel/UCILKFL1XgAG61BYie1Egp-w" target="_blank">here</a> where I (very occasionally) make cooking videos and share my rollerblading adventures (still a work in progress).`,
   magic: `I've hidden something here ( ˇ෴ˇ )`,
 };
