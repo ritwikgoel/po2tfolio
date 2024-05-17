@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base: "./",
+    base: "/po2tfolio/",
     build: {
         minify: "terser",
     },
