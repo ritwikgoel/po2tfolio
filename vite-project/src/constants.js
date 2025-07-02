@@ -1,7 +1,7 @@
 export const scaleFactor = 2.5;
 
 export const dialogueData = {
-  degree: `This is my undergraduate CS degree from VIT University. I recently completed my M.S. in Computer Engineering from Columbia University—and I’m now excited to focus on backend development and AI-driven systems! `,
+  degree: `This is my undergraduate CS degree from VIT University and my M.S. in Computer Engineering from Columbia University. Currently working at Leidos, I’m collaborating with the Virginia Department of Transportation (VDOT) to develop a centralized, cloud-based platform for roadway asset management. My focus is on backend development and AI-driven systems, and I’m excited about building scalable, intelligent tools for real-world impact.`,
   oldman:  `A wise old man who says, 'The job market is only bad when you need a job.'`,
   potion: `A bottle of melatonin to help me sleep after long hours of work.`,
   bed: `My bed to rest and recover after a good workout.`,
